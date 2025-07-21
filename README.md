@@ -3,7 +3,7 @@
 This is the official implementation of:<br>
 STP-RegNet: Real-Time Infrared-Visible Image Registration via Small Target Perception and Contrastive Learning on Edge Device.
 
-![Framework of network](./Img/fig1.jpg)
+![Framework of network](fig1.jpg)
 
 <center>Framework of network</center>
 
