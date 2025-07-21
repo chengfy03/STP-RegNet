@@ -1,4 +1,4 @@
-# CycleRegNet - Neural Multimodal Adversarial Registration
+# STP-RegNet - Neural Multimodal Adversarial Registration
 
 This is the official implementation of:<br>
 STP-RegNet: Real-Time Infrared-Visible Image Registration via Small Target Perception and Contrastive Learning on Edge Device.
